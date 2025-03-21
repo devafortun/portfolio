@@ -16,7 +16,7 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
+  raintree,
   tesla,
   shopify,
   carrent,
@@ -117,10 +117,10 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "Raintree Systems",
+    icon: raintree,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jan 2020 - April 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
